@@ -36,3 +36,6 @@ except:
 # 关闭游标和数据库连接
 cur.close()
 db.close()
+
+def fun():
+  print("hhhh")
